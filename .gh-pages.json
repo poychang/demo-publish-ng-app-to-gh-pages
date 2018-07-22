@@ -1,0 +1,7 @@
+{
+    "buildCommand": "ng build --base-href /demo-publish-ng-app-to-gh-pages/",
+    "projectName": "demo-publish-ng-app-to-gh-pages",
+    "organizationName": "poychang",
+    "distRoot": "./dist",
+    "distFolder": "MyNgApp"
+}

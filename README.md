@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/poychang/demo-publish-ng-app-to-gh-pages.svg?branch=master)](https://travis-ci.com/poychang/demo-publish-ng-app-to-gh-pages)
+
 # MyNgApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
